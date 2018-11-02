@@ -1,0 +1,201 @@
+# Copyright (C) 2014 cf7-to-wp
+# This file is distributed under the same license as the cf7-to-wp package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Contact Form to WP posts\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/WordPress-Plugin-Template\n"
+"POT-Creation-Date: 2018-11-02 17:04+0100\n"
+"PO-Revision-Date: 2018-11-02 17:05+0100\n"
+"Last-Translator: Mosaika.fr <bonjour@mosaika.fr>\n"
+"Language-Team: Mosaika <bonjour@mosaika.fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_attr_e;esc_attr__;esc_attr_x;"
+"esc_html__;esc_html_x;esc_html_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cf7-to-wp.php:20
+msgid "Contact Form to WP posts"
+msgstr "Contact Form en posts WordPress"
+
+#: ../cf7-to-wp.php:21
+msgid ""
+"This simple plugin lets you save Contact Form 7 submissions into WordPress "
+"custom posts."
+msgstr ""
+"Ce plugin basique enregistre les entrées de formulaires CF7 dans des posts "
+"WordPress."
+
+#: ../includes/class-cf7_to_wp.php:153
+msgid "Messages"
+msgstr "Messages"
+
+#: ../includes/class-cf7_to_wp.php:154
+msgid "Message"
+msgstr "Message"
+
+#: ../includes/class-cf7_to_wp.php:155
+msgid "Add New"
+msgstr "Ajouter nouveau"
+
+#: ../includes/class-cf7_to_wp.php:156
+msgid "Add new message"
+msgstr "Ajouter nouveau message"
+
+#: ../includes/class-cf7_to_wp.php:157
+msgid "Edit"
+msgstr "Modifier"
+
+#: ../includes/class-cf7_to_wp.php:204 ../includes/class-cf7_to_wp.php:205
+msgid "Mark as read"
+msgstr "Marquer comme lu"
+
+#: ../includes/class-cf7_to_wp.php:241
+msgid "Save messages"
+msgstr "Sauvegarder les messages"
+
+#: ../includes/class-cf7_to_wp.php:266
+msgid ""
+"If enabled, this addon will automagically save this form submissions into a "
+"new WordPress \"Messages\" post."
+msgstr ""
+"Si activé, ce petit addon créera magiquement un post de type \"Message\" "
+"pour enregistrer les données de chaque formulaire envoyé."
+
+#: ../includes/class-cf7_to_wp.php:272
+msgid "Should we save this form submissions to WordPress posts ?"
+msgstr "Doit-on enregistrer les données de chaque formulaire envoyé ?"
+
+#: ../includes/class-cf7_to_wp.php:280
+msgid "Post title"
+msgstr "Titre du post"
+
+#: ../includes/class-cf7_to_wp.php:287
+msgid "Post content"
+msgstr "Contenu du post"
+
+#: ../includes/class-cf7_to_wp.php:296
+msgid "Use the usual CF7 [tags] to populate the post title and post content."
+msgstr ""
+"Utilisez les habituels [tags] de CF7 pour peupler le titre et le contenu du "
+"post qui sera créé."
+
+#: ../includes/class-cf7_to_wp.php:301
+#, php-format
+msgid "A Contact Form 7 addon by %1$s"
+msgstr "Une extension CF7 par %1$s"
+
+#: ../includes/class-cf7_to_wp.php:407 ../includes/class-cf7_to_wp.php:416
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors on triche ?"
+
+#~ msgid "Form Message"
+#~ msgstr "Message du formulaire"
+
+#~ msgid "No contact form messages found yet !"
+#~ msgstr "Aucun message pour l'instant !"
+
+#~ msgid "Title & content"
+#~ msgstr "Titre et contenu"
+
+#~ msgid "Submitted on"
+#~ msgstr "Envoyé le"
+
+#~ msgid "Info"
+#~ msgstr "Infos"
+
+#~ msgid "Unknown"
+#~ msgstr "n.c."
+
+#~ msgid "IP address"
+#~ msgstr "Adresse IP"
+
+#~ msgid "User agent"
+#~ msgstr "User agent"
+
+#~ msgid "Origin"
+#~ msgstr "Origine"
+
+#~ msgid "Contact Form Messages"
+#~ msgstr "Messages des formulaires CF7"
+
+#~ msgid "Save each form submission to a post"
+#~ msgstr "Enregistrer chaque entrée de formulaire dans un post"
+
+#, fuzzy
+#~ msgid "No form_msgs avaliable."
+#~ msgstr "Enregistrer chaque entrée de formulaire dans un post"
+
+#, fuzzy
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#, fuzzy
+#~ msgid "Remove image"
+#~ msgstr "[Enlever]"
+
+#, fuzzy
+#~ msgid "Add New %s"
+#~ msgstr "Nouveau %s"
+
+#, fuzzy
+#~ msgid "Edit %s"
+#~ msgstr "Modifier %s"
+
+#, fuzzy
+#~ msgid "New %s"
+#~ msgstr "Nouveau %s"
+
+#, fuzzy
+#~ msgid "All %s"
+#~ msgstr "Tous %s"
+
+#, fuzzy
+#~ msgid "View %s"
+#~ msgstr "Voir %s"
+
+#, fuzzy
+#~ msgid "Search %s"
+#~ msgstr "Recherche %s"
+
+#, fuzzy
+#~ msgid "No %s Found"
+#~ msgstr "Aucun %s trouvé"
+
+#, fuzzy
+#~ msgid "No %s Found In Trash"
+#~ msgstr "Aucun %s dans la corbeille"
+
+#, fuzzy
+#~ msgid "Parent %s"
+#~ msgstr "Parent %s"
+
+#, fuzzy
+#~ msgid "Custom field updated."
+#~ msgstr "est un champ requis."
+
+#, fuzzy
+#~ msgid "Custom field deleted."
+#~ msgstr "est un champ requis."
+
+#, fuzzy
+#~ msgid "%1$s %2$s restored from the Trash."
+#~ msgstr "<h6>Message de %1$s <%2$s></h6>"
+
+#, fuzzy
+#~ msgid "Update %s"
+#~ msgstr "Actualiser %s"
+
+#, fuzzy
+#~ msgid "Parent %s:"
+#~ msgstr "Parent %s :"
+
+#, fuzzy
+#~ msgid "No %s found"
+#~ msgstr "Aucun %s trouvé"
